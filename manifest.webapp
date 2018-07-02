@@ -1,0 +1,17 @@
+{
+  "name": "Twitter2",
+  "short_name": "Twitter2",
+  "start_url":  "https://mobile.twitter.com/",
+  "fullscreen__": true,
+  "description": "Join Twitter today.",
+  "theme":"#ffffff",
+  "cursor": true,
+  "ime_default_softkey_bar": true,
+  "sandboxed-cookies": {},
+  "default_locale": "en-US",
+  "icons": {
+    "56": "https://dominickuo.github.io/Twitter/128.png",
+    "128": "https://dominickuo.github.io/Twitter/128.png" 
+  }
+}
+
